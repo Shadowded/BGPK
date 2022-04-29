@@ -5,6 +5,7 @@ function App() {
   return (
     <View style={style.main}>
       <Text>Балдёжный РЕАКТ</Text>
+      <Text>Go in GitHub</Text>
     </View>
   )
 }
